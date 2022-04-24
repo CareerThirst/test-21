@@ -1,6 +1,1 @@
-"# test-21" 
-New line
-fsdlfjsl
-
-apple
-orange
+Welcome to the git cmd practice repo.
